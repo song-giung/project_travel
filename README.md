@@ -16,4 +16,4 @@
 
 
 ***
-![Alt text](/project_introduction/review 001.png)
+![프로젝트리뷰001](/project_introduction/review 001.png)
