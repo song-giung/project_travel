@@ -1,0 +1,110 @@
+@charset "EUC-KR";
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box}
+.container{
+	margin :0px;
+	font-size:22px;
+	text-align:center;
+	}
+input[type=text], input[type=password] {
+	text-align:center;
+	font-size:20px;
+	border-radius:25px;
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+
+input[type=radio]{
+	
+	width: 5%;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+
+input[type=text]:focus, input[type=password]:focus {
+	border-radius:25px;
+    background-color: #ddd;
+    outline: none;
+}
+
+button {
+    background-color: teal;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer; /* 손가락 커서 모양 */
+    width: 100%;
+    opacity: 0.9;
+}
+
+button:hover {
+    opacity:1;
+    
+}
+button:focus{
+   outline:none;
+}
+
+/* 취소 버튼*/
+.cancelbtn {
+	border-radius:20px;
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+
+.cancelbtn, .submitbtn {
+	
+	border-radius:20px;
+	font-size:20px;
+  float: left;
+  width: 50%;
+}
+
+form {
+	border-radius:25px;
+    background-color: #fefefe;
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+    padding: 16px;
+}
+
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+ 
+b + div{width: 100%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;}
+
+/* Clear floats */
+.clearfix::after {
+	
+    content: "";
+    clear: both;
+    display: table; 
+}
+
+.clearfix{
+	margin-top:20px;
+	margin-bottom:20px;
+	
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+       width: 100%;
+    }
+}

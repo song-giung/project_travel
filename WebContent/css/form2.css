@@ -1,0 +1,21 @@
+@CHARSET "EUC-KR";
+*{box-sizing:border-box;}
+table{margin:0 auto;width:80% ;border-collapse:collapse;}
+td{border-bottom:1px solid #cdc9c9;padding:1%;}
+tr:nth-child(1){border-bottom:2px solid #cdc9c9; height:20px;}
+td:nth-child(1){width:15%;    background-color: #f1f1f1;}
+th{background:#f1f1f1;padding:1% 0.5%;}
+input, td{font-family:µ¸À½; font-size:18; }
+.center{text-align:center}
+.center a, input[type=submit],input[type=reset],input[type=button]
+{display:inline-block;background:gray;color:white;text-decoration:none;padding:0 5px;font-size:16px;border:none}
+.center a:hover,input[type=submit]:hover,input[type=reset]:hover,input[type=button]:hover{opacity:0.8}
+input[type=text], input[type=password]{width:100%;}
+input[type=submit],input[type=reset]{border-radius:3px}
+textarea{width:100%}
+input[name="BOARD_NAME"]{border:none}
+
+
+
+
+   

@@ -1,0 +1,135 @@
+.pic{
+	text-align:center;
+	}
+
+
+#content{margin-left:200px;
+	margin-right:200px;
+	text-align:center; 	
+    display:flex;
+    flex-wrap:wrap;
+	}
+#empty{	
+	padding: 10px;
+    box-sizing:border-box;
+    width:50%; 
+           
+}
+#schedule_view{
+    width:50% ;
+}
+
+#pocket_view{
+	width:100%;
+}
+#buttons_main,#buttons_make,#button_manage{
+	margin:0 auto;
+}
+.main_button,.make_button,.manage_button{
+	width:200px;
+	height:50px;
+	margin-top:30px;
+	font-weight:bold;
+	font-size:15px;
+}
+
+#pocket_del,#schedule_share,#schedule_del,#detail_del{
+	width:130px;
+	height:40px;
+	
+	font-size:15px;	
+}
+
+.main_table,.make_table,.manage_table{
+	border-top: 1px solid #E0E0E0;
+	text-align:center;
+	width:100%;
+	border-collapse:collapse;
+} 
+
+.main_table thead {
+    background-color: #E0F2F1
+}
+.make_table thead {
+    background-color: #E0F2F1
+}
+.manage_table thead{
+	 background-color: #E0F2F1
+}
+
+
+.make_table td{
+    border-bottom: 1px solid #E0E0E0;
+    padding: 10px;
+  }
+
+.main_table td{
+    border-bottom: 1px solid #E0E0E0;
+    padding: 10px;
+  }
+
+.manage_table td{
+	border-bottom: 1px solid #E0E0E0;
+    padding: 10px;
+}
+
+th{
+    border-bottom: 1px solid #E0E0E0;
+    padding: 10px;
+  }
+fieldset{
+	
+	border-radius:5px;
+	border:5px solid #B0BEC5;
+}
+
+/*~~~~~~~~~main~~~~~~~~~~~~~~*/
+#map_view{
+	margin:0 auto;
+	width:50%
+}
+#map_view>#map{
+	width: 100%;
+    height: 600px;
+    margin-top: 13px;
+	
+	}
+#schedule_make{
+	width:100%
+}
+#make_table th,td{
+	border:none;
+}
+#schedule_make>fieldset{
+	font-size:50px;
+}
+
+#make_schedule{
+	width:100%
+}
+.submit_button{
+	width: 100px;
+    height: 30px;
+    font-weight: bold;
+}
+
+.datepicker{
+	width:80px
+	
+}
+
+/*~~~~~~~~~~~~~~~~make~~~~~~~~~~~~~~~~*/
+
+#detail_Manage_view,#schedule_Manage_view{
+	width:100%;
+}
+
+.select_box{
+	   height: 30px;
+    margin-bottom: 20px;
+}
+
+/*~~manage~~*/
+   .fc-title{
+    	color:darkgrey;
+    }
