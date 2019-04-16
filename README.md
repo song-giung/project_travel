@@ -16,4 +16,4 @@
 
 
 ***
-![Alt text](project_travel/project_introduction/review 001.png)
+![Alt text](/project_introduction/review 001.png)
