@@ -16,4 +16,4 @@
 
 
 ***
-![Alt text](/project_introduction/세미프로젝트리뷰 001.png)
+![Alt text](project_travel/project_introduction/세미프로젝트리뷰 001.png)
