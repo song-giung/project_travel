@@ -15,8 +15,8 @@
   - 여행 일정 생성 관련 페이지 담당(DB 및 해당 코드 작성)
   - 시퀀스 다이어그램, 유스케이스 다이어그램 작성
 * 작성 소스 코드 위치 :
-  - src/schedule/하위 : java 코드(https://github.com/rldnddl87/project_travel/tree/master/src/schedule)
-  - WebContent/Schedule/하위 : jsp 코드(https://github.com/rldnddl87/project_travel/tree/master/WebContent/Schedule)
+  - src/schedule/하위 : [java 코드](https://github.com/rldnddl87/project_travel/tree/master/src/schedule)
+  - WebContent/Schedule/하위 : [jsp 코드](https://github.com/rldnddl87/project_travel/tree/master/WebContent/Schedule)
 
 
 ***
