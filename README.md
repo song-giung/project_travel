@@ -25,7 +25,6 @@
 
 ***
 ### 프로젝트 리뷰
-![프로젝트리뷰001](/project_introduction/review001.png)
 ![프로젝트리뷰002](/project_introduction/review002.png)
 ![프로젝트리뷰003](/project_introduction/review003.png)
 ![프로젝트리뷰004](/project_introduction/review004.png)
