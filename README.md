@@ -9,7 +9,7 @@
   - JavaScript/Jquery/Ajax
   - Servlet/JSP
   - MVC Model 2
-* 담당 부분 : 
+* **담당 부분** : 
   - 팀원 
   - 프로젝트 계획서 작성
   - 여행 일정 생성 관련 페이지 담당(DB 및 해당 코드 작성)
